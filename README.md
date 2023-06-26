@@ -1,4 +1,4 @@
-# DASS ASSIGNMENT-1
+# DASS Course Project
 ### Akshit Sharma (2021101029)
 
 ### Directory Structure:
