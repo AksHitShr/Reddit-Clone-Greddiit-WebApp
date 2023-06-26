@@ -1,5 +1,5 @@
 # DASS Course Project
-## Reddit Clone- Greddiit WebApp
+## Reddit Clone- Greddiit (Social Media WebApp)
 ### Akshit Sharma (2021101029)
 
 ### Commands to run:
