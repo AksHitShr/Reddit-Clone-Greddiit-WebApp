@@ -1,7 +1,6 @@
 # DASS Course Project
+## Reddit Clone- Greddiit WebApp
 ### Akshit Sharma (2021101029)
-
-### Directory Structure:
 
 ### Commands to run:
 From the assignment folder, run each:-
