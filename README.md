@@ -16,10 +16,6 @@ Run the container with:
 > sudo docker-compose up
 </br>
 
-## Part-1 link:
-> https://mellow-mandazi-0bbda7.netlify.app
-</br>
-
 ## Login and Registration (Path: /)
 - Assuming that both Username and Email address of the user are unique. If a user registers with already registered Username or Email, an appropriate alert is shown.
 
